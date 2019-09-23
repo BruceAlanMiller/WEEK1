@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!-- saved from url=(0114)https://my.dundee.ac.uk/bbcswebdav/pid-5494637-dt-content-rid-6469934_2/courses/AC11002_SEM0000_1920/activity1.htm -->
+<html lang="en" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <head>
+    <title>Activity 1</title>
+    <style media="screen">
+      header{
+        background-color: tomato;
+      }
+      main{
+        background-color: yellow;
+      }
+      section{
+        background-color: green;
+      }
+      footer{
+        background-color: blue;
+      }
+      aside{
+        background-color: purple;
+      }
+    </style>
+  </head>
+Content for html CV
+Title
+<title> BMillerHtmlCV </title>
+<style media=”screen”>
+<header>  online cv for www authoring
+</header>
+<h1> welcome to my <strong>online CV</strong>
+</h1>
+ <ul>
+<li> personal statement </li>
+<li> personal details </li>
+<li> <p> <em> favourite quote</em></p></li>
+<li> places I have worked  </li>
+<ol>
+<li>  <strong>Farmers Bar</strong></li>
+<li>  <strong>Ignite Night Club </strong></li>
+<li>  <strong>LandScape Gardener</strong></li>
+<li>  <strong>Circus Performer </strong></li>
+UL Format for whole page
+-H2 personal details
+<p> favourite quote <p>
+-H2  work history
+OL places I have worked
+- H2 interests
+- H2 contact details / available hours.
+Footer
